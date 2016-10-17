@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sitewards_CookieNotice>
+            <version>1.0.0</version>
+        </Sitewards_CookieNotice>
+    </modules>
+    <global>
+        <blocks>
+            <sitewards_cookienotice>
+                <class>Sitewards_CookieNotice_Block</class>
+            </sitewards_cookienotice>
+            <page>
+                <rewrite>
+                    <html_cookieNotice>Sitewards_CookieNotice_Block_Html_CookieNotice</html_cookieNotice>
+                </rewrite>
+            </page>
+        </blocks>
+    </global>
+</config>
