@@ -1,0 +1,9 @@
+{
+    "name": "sitewards/cookie_notice",
+    "description": "Sitewards fix for Magento standard cookie notice.",
+    "type": "magento-module",
+    "homepage": "https://github.com/sitewards/cookie_notice",
+    "require": {
+        "php": "~5.5"
+    }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Sitewards_CookieNotice>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Page />
+            </depends>
+        </Sitewards_CookieNotice>
+    </modules>
+</config>
