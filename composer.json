@@ -11,6 +11,7 @@
     "type": "magento-module",
     "homepage": "https://github.com/sitewards/cookie_notice",
     "require": {
-        "php": "~5.5"
+        "php": "~5.5",
+        "magento-hackathon/magento-composer-installer": "^3.0"
     }
 }
