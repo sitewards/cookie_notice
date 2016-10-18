@@ -1,5 +1,12 @@
 {
     "name": "sitewards/cookie_notice",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Manners",
+            "email": "david.manners@sitewards.com"
+        }
+    ],
     "description": "Sitewards fix for Magento standard cookie notice.",
     "type": "magento-module",
     "homepage": "https://github.com/sitewards/cookie_notice",
