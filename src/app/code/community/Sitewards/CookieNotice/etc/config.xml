@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Sitewards_CookieNotice>
-            <version>1.0.0</version>
+            <version>1.0.1</version>
         </Sitewards_CookieNotice>
     </modules>
     <global>
